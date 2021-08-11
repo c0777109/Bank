@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Money Transfer</string>
+    <string name="login_username">Enter your email or Phone Number</string>
+    <string name="login_pass">Enter your user password</string>
+    <string name="login_forgotpass">Forgot User Password?</string>
+    <string name="login_register">You are not a member?</string>
+    <string name="login_btn">Login</string>
+    <string name="title_activity_time_table">TimeTable</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="powered">Powered By Edexters</string>
+    <string name="select_image">Select Image</string>
+
+    <string name="location">B-30, Sector-6, Noida\n201301, UP, India</string>
+    <string name="location_name">Location</string>
+    <string name="email">info@ambiguous.in</string>
+    <string name="EMAIL_NAME">Email Address</string>
+    <string name="phone">8076063985</string>
+    <string name="phone_name">Phone Number</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
